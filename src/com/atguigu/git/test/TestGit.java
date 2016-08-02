@@ -7,5 +7,6 @@ public class TestGit {
 		System.out.println("回复01");
 		System.out.println("回复02");
 		System.out.println("03");
+		System.out.println("04");
 	}
 }
